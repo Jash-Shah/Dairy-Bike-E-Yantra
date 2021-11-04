@@ -199,7 +199,7 @@ function [t,y] = lqr_RW_pendulum(m1, m2, l1, wr, g, y_setpoint, y0)
   [A,B] = RW_pendulum_AB_matrix(m1 , m2, l1, wr, g);
   Q = eye(4);
   R = [1];
-  K = lqr(A,B,Q,R)
+  K = lqr(A,B,Q,R);
   tspan = 0:0.1:20; # Time Array 
   [t,y] = ode45(@(t,y)RW_pendulum_dynamics(y, m1, m2, l1, wr, g, -K*(y - y_setpoint)),tspan,y0);  # ODE solver to solve differential equations
 ##  disp(y);
