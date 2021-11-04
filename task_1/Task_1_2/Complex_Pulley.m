@@ -12,9 +12,9 @@ pkg load control;
 ##*  Version: 2.0.0  
 ##*  Date: October 13, 2021
 ##*
-##*  Team ID :
-##*  Team Leader Name:
-##*  Team Member Name
+##*  Team ID : 2338
+##*  Team Leader Name: Anirudha Thakre
+##*  Team Member Name: Jash Shah
 ##*
 ##*  
 ##*  Author: e-Yantra Project, Department of Computer Science
@@ -236,9 +236,9 @@ function complex_pulley_main()
   y_setpoint = [0.6 ; 0; 0.8; 0];
   y0 = [0.4 ; 0; 0.5; 0];
   
-  [t,y] = sim_complex_pulley(m1, m2, m3, g, rA, rB, y0)
+##  [t,y] = sim_complex_pulley(m1, m2, m3, g, rA, rB, y0)
 ##  [t,y] = pole_place_complex_pulley(m1, m2, m3, g, rA, rB, y_setpoint, y0)
-##  [t,y] = lqr_complex_pulley(m1, m2, m3, g, rA, rB, y_setpoint, y0);
+  [t,y] = lqr_complex_pulley(m1, m2, m3, g, rA, rB, y_setpoint, y0);
   
   for k = 1:length(t)
     draw_complex_pulley(y(k, :));
