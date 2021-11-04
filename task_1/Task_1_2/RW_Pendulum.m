@@ -14,9 +14,9 @@ pkg load image;
 ##*  Version: 2.0.0  
 ##*  Date: October 27, 2021
 ##*
-##*  Team ID :
-##*  Team Leader Name:
-##*  Team Member Name
+##*  Team ID : 2338
+##*  Team Leader Name: Anirudha Thakre
+##*  Team Member Name: Jash Shaa, Ayush Kaura, Aryaman Shardul
 ##*
 ##*  
 ##*  Author: e-Yantra Project, Department of Computer Science
