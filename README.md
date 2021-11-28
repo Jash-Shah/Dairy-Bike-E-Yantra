@@ -7,4 +7,4 @@ For sharing resources of the Dairy Bike project in eYRC 2021
 2) For task 1.1: 
  * The syntax for [solve](https://octave.sourceforge.io/symbolic/function/@sym/solve.html), [jacobian](https://octave.sourceforge.io/symbolic/function/@sym/jacobian.html), [subs](https://octave.sourceforge.io/symbolic/function/@sym/subs.html) and [eig](https://octave.sourceforge.io/octave/function/eigs.html) functions were taken from octave.sourceforge.io website.
  
-3) For task 1.2:
+
