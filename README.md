@@ -4,7 +4,9 @@
 
 Theme link - https://portal.e-yantra.org/themeIntro
 
-For sharing resources of the Dairy Bike project in eYRC 2021
+For sharing resources of the Dairy Bike project in eYRC 2021.
+
+Concepts used: Self-Balancing Robot, State-Space Modelling, Euler-Lagrange Mechanics, Linear Quadratic Regulator, Lua Language, Octave Programming, Coppelia Sim, Fusion 360.
 
 ## References
 1) The official documentation for GNU Octave 5.2.0 is [here](https://octave.org/doc/v5.2.0/).
