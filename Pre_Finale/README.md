@@ -1,9 +1,5 @@
-The initial video submitted for pre finale(720 p)
+The video submitted in the finals(without subtitles version)
 
-https://www.youtube.com/watch?v=cd8btdywBTU
-
-The video we recieved after re-recording(1080 p)
-
-https://www.youtube.com/watch?v=eNrlGG8vwb0
+https://drive.google.com/file/d/1kNOvh2rFqAEJz-nib4W-0c4SEBQvoYfX/view?usp=sharing
 
 
