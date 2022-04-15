@@ -20,4 +20,4 @@ Concepts used: Self-Balancing Robot, State-Space Modelling, Euler-Lagrange Mecha
 
 5) [Control Systems Playlist](https://youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
  
-
+Note: This repo was made public after the competition ended and final scripts were uploaded for future reference purposes.
