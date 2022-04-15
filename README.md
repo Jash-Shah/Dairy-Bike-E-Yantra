@@ -1,4 +1,9 @@
 # Dairy-Bike-E-Yantra
+
+![eyrc_png](https://user-images.githubusercontent.com/82901720/163624246-4ebdd65d-223c-4912-bcf3-a0d0ee79ed60.png)
+
+Theme link - https://portal.e-yantra.org/themeIntro
+
 For sharing resources of the Dairy Bike project in eYRC 2021
 
 ## References
